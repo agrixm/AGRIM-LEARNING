@@ -29,3 +29,17 @@
     grid-area: footer;
 }
 
+/* @media(max-width:400px){
+    .container{
+        grid-gap: 100px;
+    }
+}
+ */
+@media(max-width:500px){
+    .container{
+        grid-template-rows: 30px 1fr 1fr 30px;
+        grid-template-columns: 1fr;
+        grid-gap: 2px;
+        grid-template-areas: "header" "side"" main" "footer";    
+    }
+}
