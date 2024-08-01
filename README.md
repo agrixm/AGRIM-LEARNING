@@ -17,3 +17,21 @@ Technologies used in the project:
 *   CSS 3
 *   Java Script
 *   Chat GPT
+
+    
+  
+
+
+<h3 align="center">During my web development journey, I’ve worked on a variety of topics and projects that are listed in this repository and have helped me learn and grow in the field.</h3>
+<br>
+<h2>🧐 Topics Covered</h2>
+
+- ⚡ HTML  **(Tags,Elements,Tables,Semantic tags,DOM)**
+
+- ⚡ CSS **(Selectors,Box-Model,Dimension property,Flex-Box,Grids,Media queries)**
+
+
+
+
+
+
