@@ -2,7 +2,7 @@
 <h1 align="center" id="title">LEARNING VAULT</h1>
 
 
-<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB0zeud2iStWcLNYy0L7bd_nxkXOGIW2UVSQ&amp;s" alt="project-image"></p>
+<p align="center"><img src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg"></p>
 
 <p  align="center">This repository serves as a dedicated space for where I document my web development journey through the code I write and the projects I tackle.Each commit represents a step forward in my learning process.By maintaining this repository I can track my progress revisit previous work.</p>
 
