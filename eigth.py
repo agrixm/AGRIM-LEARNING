@@ -11,5 +11,9 @@ elif(timestamp>"17:00:00"):
     print("Good Evening")
 
 
-
+a=int(input("Enter age:"))
+if(a<18):
+    print("You are a minor")
+else:        
+    print("You are a major")
 
