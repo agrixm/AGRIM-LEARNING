@@ -15,7 +15,7 @@ print(a[0])
 # list can have multiple data types
 
 l=[1,True,"Hello",3.5]  
-print(typel)
+print(l)
 
 l=["agrim","amy","peter","chris","jill","leon","claire","jake","sherry","ada"]
 print(l[-5])
