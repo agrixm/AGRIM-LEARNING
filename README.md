@@ -10,7 +10,7 @@
   
 <h2>💻 Built with</h2>
 
-Technologies used in the project:
+Technologies I am using in Learning:
 
 *   VS Code
 *   HTML 5
