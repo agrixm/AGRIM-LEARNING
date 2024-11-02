@@ -15,7 +15,6 @@ Technologies used in the project:
 *   VS Code
 *   HTML 5
 *   CSS 3
-*   Java Script
 *   Chat GPT
 *   Python
 
@@ -23,13 +22,15 @@ Technologies used in the project:
   
 
 
-<h3 align="center">During my web development journey, I’ve worked on a variety of topics and projects that are listed in this repository and have helped me learn and grow in the field.</h3>
+<h3 align="center">During my development journey, I’ve worked on a variety of topics and projects that are listed in this repository and have helped me learn and grow in the field.</h3>
 <br>
-<h2>🧐 Topics Covered</h2>
+<h2>🧐 Topics Covered Till Now</h2>
 
 - ⚡ HTML  **(Tags,Elements,Tables,Semantic tags,DOM)**
 
 - ⚡ CSS **(Selectors,Box-Model,Dimension property,Flex-Box,Grids,Media queries)**
+
+- ⚡ Python **(PIP,Modules,variables,Data-Types,Type(),Input(),Type-Casting)**
 
 
 
